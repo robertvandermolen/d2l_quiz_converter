@@ -20,7 +20,7 @@ Here you will type the name you want to name the output file which will be autom
 
 Next you will be prompted with:
 
-```what do you want ot title these type of questions:```
+```what do you want to title these type of questions:```
 
 here you will type a title for these type of questions. The program will automatically give each question from the bank file this title appended with the number in which appears in the bank file.
 

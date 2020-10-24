@@ -1,5 +1,5 @@
 # D2L Quiz Converter
-This tiny python script can be used to convert the html randomly generated questions created by [CheckIt](https://github.com/stevenclontz/checkit) 
+This tiny python script can be used to convert the html randomly generated questions created by [CheckIt](https://github.com/stevenclontz/checkit)
 
 ## Usage
 To use this script first create a file with the html coded questions (following the format from [CheckIt](https://github.com/stevenclontz/checkit)) in the same folder/file location as this script. Then in your terminal (or how else you use python files)

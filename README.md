@@ -10,7 +10,7 @@ Then the program will prompt you as follows:
 
 ```what bank file to convert: ```
 
-Here you will type the name of the file you saved the html code from [CheckIt](https://github.com/stevenclontz/checkit)
+Here you will type the name of the file you saved the html code from [CheckIt](https://github.com/stevenclontz/checkit). Note you MUST include the extension in the file name as well this file MUST be in the same folder as the python script.
 
 Next you will be prompted with:
 
